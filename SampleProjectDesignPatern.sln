@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonProject", "SingletonProject\SingletonProject.csproj", "{7BCE3463-9CCE-D7A2-D8FA-5D28B279D12A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodProject", "FactoryMethodProject\FactoryMethodProject.csproj", "{31BA7C57-4C4F-4B14-B0C4-673A97C6DCD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractMethodProject", "AbstractMethodProject\AbstractMethodProject.csproj", "{933C3490-377A-479D-B7F1-ECEC8BAE87E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderProject", "BuilderProject\BuilderProject.csproj", "{055E7678-2A23-47D1-ADDE-BE0E189EE0AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeProject", "PrototypeProject\PrototypeProject.csproj", "{CED75824-9EA1-4587-B75A-C66CE60EC2D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "All Cocuments", "All Cocuments", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		..\0-DesignPatterns_In_C#.docx = ..\0-DesignPatterns_In_C#.docx
+		..\1-DesignPatterns_Singleton.docx = ..\1-DesignPatterns_Singleton.docx
+		..\10-DesignPatterns_Proxy.docx = ..\10-DesignPatterns_Proxy.docx
+		..\11-DesignPatterns_Observer.docx = ..\11-DesignPatterns_Observer.docx
+		..\12-DesignPatterns_Strategy.docx = ..\12-DesignPatterns_Strategy.docx
+		..\13-DesignPatterns_Command.docx = ..\13-DesignPatterns_Command.docx
+		..\14-DesignPatterns_Iterator.docx = ..\14-DesignPatterns_Iterator.docx
+		..\15-DesignPatterns_State.docx = ..\15-DesignPatterns_State.docx
+		..\2-DesignPatterns_Factory Method.docx = ..\2-DesignPatterns_Factory Method.docx
+		..\3-DesignPatterns_Abstract Factory.docx = ..\3-DesignPatterns_Abstract Factory.docx
+		..\4-DesignPatterns_Builder.docx = ..\4-DesignPatterns_Builder.docx
+		..\5-DesignPatterns_Prototype.docx = ..\5-DesignPatterns_Prototype.docx
+		..\6-DesignPatterns_Adapter.docx = ..\6-DesignPatterns_Adapter.docx
+		..\7-DesignPatterns_Decorator.docx = ..\7-DesignPatterns_Decorator.docx
+		..\8-DesignPatterns_Facade.docx = ..\8-DesignPatterns_Facade.docx
+		..\9-DesignPatterns_Composite.docx = ..\9-DesignPatterns_Composite.docx
+		..\DesignPatterns_In_C#.docx = ..\DesignPatterns_In_C#.docx
+		..\DesignPatterns_In_C#.pdf = ..\DesignPatterns_In_C#.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCE3463-9CCE-D7A2-D8FA-5D28B279D12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCE3463-9CCE-D7A2-D8FA-5D28B279D12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCE3463-9CCE-D7A2-D8FA-5D28B279D12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCE3463-9CCE-D7A2-D8FA-5D28B279D12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BA7C57-4C4F-4B14-B0C4-673A97C6DCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BA7C57-4C4F-4B14-B0C4-673A97C6DCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BA7C57-4C4F-4B14-B0C4-673A97C6DCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BA7C57-4C4F-4B14-B0C4-673A97C6DCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933C3490-377A-479D-B7F1-ECEC8BAE87E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933C3490-377A-479D-B7F1-ECEC8BAE87E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933C3490-377A-479D-B7F1-ECEC8BAE87E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933C3490-377A-479D-B7F1-ECEC8BAE87E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055E7678-2A23-47D1-ADDE-BE0E189EE0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055E7678-2A23-47D1-ADDE-BE0E189EE0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055E7678-2A23-47D1-ADDE-BE0E189EE0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055E7678-2A23-47D1-ADDE-BE0E189EE0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED75824-9EA1-4587-B75A-C66CE60EC2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED75824-9EA1-4587-B75A-C66CE60EC2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED75824-9EA1-4587-B75A-C66CE60EC2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED75824-9EA1-4587-B75A-C66CE60EC2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0B87009-DB8D-43FB-A4DB-292ED7BC55DF}
+	EndGlobalSection
+EndGlobal
