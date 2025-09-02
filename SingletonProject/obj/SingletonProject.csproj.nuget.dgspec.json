@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\SingletonProject\\SingletonProject.csproj": {}
+    "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\SingletonProject\\SingletonProject.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\SingletonProject\\SingletonProject.csproj": {
+    "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\SingletonProject\\SingletonProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\SingletonProject\\SingletonProject.csproj",
+        "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\SingletonProject\\SingletonProject.csproj",
         "projectName": "SingletonProject",
-        "projectPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\SingletonProject\\SingletonProject.csproj",
+        "projectPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\SingletonProject\\SingletonProject.csproj",
         "packagesPath": "C:\\Users\\khorshidi.s\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\SingletonProject\\obj\\",
+        "outputPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\SingletonProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

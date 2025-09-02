@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YtDfevseeHo=",
+  "dgSpecHash": "+4Einx31Otw=",
   "success": true,
-  "projectFilePath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\SingletonProject\\SingletonProject.csproj",
+  "projectFilePath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\SingletonProject\\SingletonProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

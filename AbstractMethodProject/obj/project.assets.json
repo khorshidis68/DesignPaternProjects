@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\AbstractMethodProject\\AbstractMethodProject.csproj",
+      "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\AbstractMethodProject\\AbstractMethodProject.csproj",
       "projectName": "AbstractMethodProject",
-      "projectPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\AbstractMethodProject\\AbstractMethodProject.csproj",
+      "projectPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\AbstractMethodProject\\AbstractMethodProject.csproj",
       "packagesPath": "C:\\Users\\khorshidi.s\\.nuget\\packages\\",
-      "outputPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\AbstractMethodProject\\obj\\",
+      "outputPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\AbstractMethodProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

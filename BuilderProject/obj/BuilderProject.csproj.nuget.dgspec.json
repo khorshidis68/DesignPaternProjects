@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\BuilderProject\\BuilderProject.csproj": {}
+    "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\BuilderProject\\BuilderProject.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\BuilderProject\\BuilderProject.csproj": {
+    "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\BuilderProject\\BuilderProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\BuilderProject\\BuilderProject.csproj",
+        "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\BuilderProject\\BuilderProject.csproj",
         "projectName": "BuilderProject",
-        "projectPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\BuilderProject\\BuilderProject.csproj",
+        "projectPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\BuilderProject\\BuilderProject.csproj",
         "packagesPath": "C:\\Users\\khorshidi.s\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\BuilderProject\\obj\\",
+        "outputPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\BuilderProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

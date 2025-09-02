@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zo0wSI0z0gI=",
+  "dgSpecHash": "L3aK6QPa+0I=",
   "success": true,
-  "projectFilePath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\BuilderProject\\BuilderProject.csproj",
+  "projectFilePath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\BuilderProject\\BuilderProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

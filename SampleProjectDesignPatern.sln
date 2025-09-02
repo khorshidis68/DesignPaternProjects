@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "All Cocuments", "All Cocume
 		..\DesignPatterns_In_C#.pdf = ..\DesignPatterns_In_C#.pdf
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterProject", "AdapterProject\AdapterProject.csproj", "{C7CAC6BC-4DFE-4555-AE14-B01D0FA04CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{CED75824-9EA1-4587-B75A-C66CE60EC2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CED75824-9EA1-4587-B75A-C66CE60EC2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CED75824-9EA1-4587-B75A-C66CE60EC2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7CAC6BC-4DFE-4555-AE14-B01D0FA04CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CAC6BC-4DFE-4555-AE14-B01D0FA04CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CAC6BC-4DFE-4555-AE14-B01D0FA04CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CAC6BC-4DFE-4555-AE14-B01D0FA04CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

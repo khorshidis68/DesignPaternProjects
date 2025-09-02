@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\PrototypeProject\\PrototypeProject.csproj": {}
+    "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\PrototypeProject\\PrototypeProject.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\PrototypeProject\\PrototypeProject.csproj": {
+    "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\PrototypeProject\\PrototypeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\PrototypeProject\\PrototypeProject.csproj",
+        "projectUniqueName": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\PrototypeProject\\PrototypeProject.csproj",
         "projectName": "PrototypeProject",
-        "projectPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\PrototypeProject\\PrototypeProject.csproj",
+        "projectPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\PrototypeProject\\PrototypeProject.csproj",
         "packagesPath": "C:\\Users\\khorshidi.s\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\Design Patterns In C#\\SampleProjectDesignPatern\\PrototypeProject\\obj\\",
+        "outputPath": "E:\\Learning\\Design Patterns In C#\\DesignPaternProjects\\PrototypeProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
