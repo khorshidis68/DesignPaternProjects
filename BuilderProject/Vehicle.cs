@@ -7,7 +7,7 @@ public class Vehicle
     private Dictionary<string, string> _parts = new Dictionary<string, string>();
 
     public Vehicle(string vehicleType) {
-        this._vehicleType = vehicleType;
+        _vehicleType = vehicleType;
     }
 
     public string this[string key]
